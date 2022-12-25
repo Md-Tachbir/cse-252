@@ -1,0 +1,50 @@
+Quick Sort:
+Worst Case Time Complexity [ Big-O ]: O(n2)
+
+Best Case Time Complexity [Big-omega]: O(n*log n)
+
+Average Time Complexity [Big-theta]: O(n*log n)
+
+Space Complexity: O(n*log n)
+
+
+Merge sort:
+Worst Case Time Complexity [ Big-O ]: O(n*log n)
+
+Best Case Time Complexity [Big-omega]: O(n*log n)
+
+Average Time Complexity [Big-theta]: O(n*log n)
+
+Space Complexity: O(n)
+
+Heap Sort:
+Worst Case Time Complexity: O(n*log n)
+
+Best Case Time Complexity: O(n*log n)
+
+Average Time Complexity: O(n*log n)
+
+Space Complexity : O(1)
+
+
+Time Complexity of counting sort:
+ O(N + K) where N is the number of elements in the input array and K is the range of input. 
+
+
+Basis	                DFS	          BFS
+Data structure Used	Stack	         Queue
+Time Complexity	      O(V + E)	         O(V + E)
+Space Complexity	O(V)	          O(V)
+Traversal tree	   Narrow and long	       Wide and short
+
+
+
+
+
+
+
+
+
+
+
+
